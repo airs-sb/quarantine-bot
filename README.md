@@ -13,3 +13,5 @@ It can be used for many things such as:
 - Then, install the required packages using: `npm install` & `pip install -r requirements.txt`
 - Put your discord bot token and access role in **bot.py**
 - Run the bot using `python bot.py`
+
+**Not responsible for any activites done with this repository**
