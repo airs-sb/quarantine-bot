@@ -1,0 +1,31 @@
+{
+  "name": "adbot",
+  "version": "1.0.0",
+  "description": "A bot for managing ads",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "ads",
+    "automation"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "axion": "^0.1.0",
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.3",
+    "figlet": "^1.6.0",
+    "mineflayer": "^4.0.0",
+    "mineflayer-pathfinder": "^2.4.2",
+    "node-fetch": "^3.3.1",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.3"
+  }
+}
