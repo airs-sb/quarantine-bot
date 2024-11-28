@@ -10,10 +10,10 @@ import socket
 import asyncio
 import requests as req
 
-token = "MTMwNDQ5MzYyMDM5MjYyNDIxOQ.GkAwTN.Muc00Vs3LMxj-YrBh0hLLuw6je49162pr3Ww74"
+token = "TOKEN"
 subprocesses = {}
 user_proxies = {}
-ACCESS_ROLE_NAME = "Blaze Premium"
+ACCESS_ROLE_NAME = "ROLE"
 image = ""
 
 # Setup Bot
